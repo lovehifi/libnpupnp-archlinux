@@ -6,7 +6,7 @@
 > 
 > cd /root/libnpupnp-2.2.1
 > 
-> ./configure --prefix=/usr
+> ./configure --prefix=/usr --libdir=/lib
 > 
 > make
 > 
