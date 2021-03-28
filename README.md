@@ -1,10 +1,10 @@
 ### libnpupnp-archlinux
 
-> wget https://www.lesbonscomptes.com/upmpdcli/downloads/libnpupnp-2.2.1.tar.gz
+> wget https://www.lesbonscomptes.com/upmpdcli/downloads/libupnpp-0.21.0.tar.gz
 >
-> tar -xf libnpupnp-2.2.1.tar.gz
+> tar -xf libupnpp-0.21.0.tar.gz
 > 
-> cd /root/libnpupnp-2.2.1
+> cd /root/libupnpp-0.21.0
 > 
 > ./configure --prefix=/usr --libdir=/lib
 > 
