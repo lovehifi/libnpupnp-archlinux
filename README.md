@@ -18,7 +18,7 @@
 >
 > systemctl stop mpd
 
-# Enable port 6600  "/etc/mpd.conf"
+### Enable port 6600  "/etc/mpd.conf"
 
 > 
 > systemctl enable upmpdcli
