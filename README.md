@@ -1,4 +1,4 @@
-### libnpupnp-archlinux
+### libnpupnp/upmpdcli Archlinux
 
 > pacman -Sy aspell aspell-en id3lib jsoncpp python-appdirs python-bottle  python-chardet python-ordered-set  python-packaging python-setuptools  python-six  python-urllib3  python-waitress
 >
@@ -18,7 +18,7 @@
 >
 > systemctl stop mpd
 
-### Enable port 6600  "/etc/mpd.conf"
+Enable port 6600  "/etc/mpd.conf"
 
 > 
 > systemctl enable upmpdcli
